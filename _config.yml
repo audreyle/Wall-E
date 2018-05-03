@@ -1,10 +1,10 @@
 title : Wall-E - Jekyll
-description: 'A Modern Jekyll Theme'
+description: 'Audrey Le's Research Blog'
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-plugins: [jekyll-gist]
+plugins: [jekyll-gist] [jekyll-paginate]
 permalink: /:year/:month/:title.html
