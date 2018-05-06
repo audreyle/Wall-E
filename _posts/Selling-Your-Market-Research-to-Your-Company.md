@@ -8,7 +8,7 @@ Working for a startup, and having to juggle multiple commitments, I've had to be
 
 I illustrate my approach to answering some of the key concerns that diverse stakeholders may raise at a company, using specific phrases that leadership has used to set the vision for research. For each concern, I discuss what the implications are on research outcomes. 
 
-###"This research is critical for us at this time, but it is low-hanging fruit."
+### "This research is critical for us at this time, but it is low-hanging fruit."
 
 > CMO: We have a vision for research, as well as a set of methods we want you to use. Namely, 30-minute interviews and a big sample size. 
 
@@ -18,7 +18,7 @@ To this, I responded: Formal interviews are known to limit the wide range of res
 
 This means, that we do not need a big sample size, either. Asking more open-ended questions may just be your ticket, and a size of 5 to 8 is sufficient to preliminary research if the goal is to get to the few wants, needs and pain points that they experience in their role. 
 
-###"We do not want to piss in our own river."
+### "We do not want to piss in our own river."
 
 > CMO: I personally know these brands and do not need their business contexts. I believe we can get buy-in from them later.
 
@@ -36,7 +36,7 @@ I insisted that we triangulate sources of data. Once the secondary research on s
 
 My hunch was, that we could save on time and cost by being comparative and extrapolating unique insights from a small subset of the population with whom we had rapport. 
 
-###"We want you to be as broad as possible. There are standups to get updated on progress throughout the company."
+### "We want you to be as broad as possible. There are standups to get updated on progress throughout the company."
 
 > Me: You possess inside knowledge of the retail workflow. You can help me think of more pertinent questions to ask. 
 
@@ -44,7 +44,7 @@ My hunch was, that we could save on time and cost by being comparative and extra
 
 The main issue I saw with this response is, that I need to work with raw data. I would not be able to read e-mail responses to our Director of Sales's cold outreach efforts. Although these answers are almost always scripted, and I do not get to sit in a company room as key constituents debate how to present themselves strategically to us, some of the questions that brands and shoppers may ask of other employees at my startup are invaluable sources of data for me precisely because they haven't been diluted by the paradigms that my co-workers may use to make sense of their responses.  
 
-###"Accompany me to build rapport."
+### "Accompany me to build rapport."
 
 > CCO: Yes! 
 
