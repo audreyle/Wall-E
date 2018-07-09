@@ -1,8 +1,4 @@
 
----
-title: "Selling Your Market Research to A Retail/e-Commerce Company"
-layout: post
----
 
 Working for a startup, and having to juggle multiple commitments, I've had to become adept at selling my research methodology to the company's leadership on numerous occasions. 
 
