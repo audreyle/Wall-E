@@ -8,7 +8,7 @@ This assumes that you understand subscription-based access control roles and how
 
 Change KeyVault-secret-uri
 
-Use KeyVaultClient.AuthenticationCallBack  
+KeyVaultClient.AuthenticationCallBack  
 If you are doing this from your local machine, it can either use your identity or your app identity. 
 
 AADManager.FetchSecret
@@ -21,5 +21,4 @@ The tool scans resources at runtime holistically (computer-secure) to ensure it'
 
 **An application only consists of keyvault, resource group name and data.**
 
-Remember: Automation accounts run in the database.   
-Azure storage has a CSV file from which you can copy the recommendations.
+Automation accounts run in the database. Azure storage has a CSV file from which you can copy the recommendations.
